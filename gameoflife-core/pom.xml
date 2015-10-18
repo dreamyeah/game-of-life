@@ -45,7 +45,7 @@
                 <version>2.4</version>
                 <configuration>
                     <formats>
-                        <format>xml</format>
+                
                         <format>html</format>
                     </formats>
                 </configuration>
